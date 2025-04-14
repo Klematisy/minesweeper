@@ -10,7 +10,7 @@ cd minesweeper
 make build run
 ```
 
-### Controls
+## Controls
 Left/Right/Up/Down - the pointer transition\
 Z - dig up a cell \
 X - put a flag
