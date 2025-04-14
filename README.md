@@ -1,6 +1,6 @@
 # Minesweeper
 
-My own realizaton of minesweeper on the Free Pascal in the terminal. (the ownership of this idea - Tsolding)
+My own realizaton of minesweeper on the Free Pascal in the terminal. (the ownership of this idea - Tsoding)
 
 To run this program you need to download the fpc (**Free Pascal Compiler**) from official site
 
