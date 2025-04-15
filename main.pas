@@ -57,7 +57,7 @@ procedure EndGameCheck();
 var i: integer;
 begin
     For i:=1 to width * height do begin
-        if (gameField[i] = ' . ') and (gameFieldInNum[i] <> 9) then begin
+        if( (gameField[i] = ' . ') or (gameField[i] = ' X ')) and (gameFieldInNum[i] <> 9) then begin
             Exit;
         end;
     end;
